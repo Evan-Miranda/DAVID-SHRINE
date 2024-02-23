@@ -1,9 +1,9 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(150, 221, 244);
   }
   h1 {
     text-align: center;
-    color: aqua;
+    color: grey;
   }
 
   p {
@@ -12,5 +12,6 @@ body {
     color: blueviolet;
   }
   div {
-    text-align: center;
+    display: flex;
+    justify-content: center;
   }
