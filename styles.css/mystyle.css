@@ -11,3 +11,6 @@ body {
     font-weight: bolder;
     color: blueviolet;
   }
+  div {
+    text-align: center;
+  }
